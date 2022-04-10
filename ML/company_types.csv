@@ -1,0 +1,225 @@
+Domain,Customer,Research,Tech,Input,Listed,Diversity,Accessibility
+Medical,0,1,1,1,1,4,2
+Medical,0,1,1,1,0,7,2
+Medical,0,1,1,0,1,4,2
+Medical,0,1,1,0,0,7,2
+Medical,0,1,0,1,1,4,2
+Medical,0,1,0,1,0,7,2
+Medical,0,1,0,0,1,4,2
+Medical,0,1,0,0,0,7,2
+Medical,0,0,1,1,1,6,2
+Medical,0,0,1,1,0,5,2
+Medical,0,0,1,0,1,6,2
+Medical,0,0,1,0,0,5,2
+Medical,0,0,0,1,1,1,2
+Medical,0,0,0,1,0,3,2
+Medical,0,0,0,0,1,2,2
+Medical,0,0,0,0,0,5,2
+Medical,1,1,1,1,1,1,2
+Medical,1,1,1,1,0,3,2
+Medical,1,1,1,0,1,4,2
+Medical,1,1,1,0,0,7,2
+Medical,1,1,0,1,1,1,2
+Medical,1,1,0,1,0,3,2
+Medical,1,1,0,0,1,2,2
+Medical,1,1,0,0,0,7,2
+Medical,1,0,1,1,1,2,2
+Medical,1,0,1,1,0,5,2
+Medical,1,0,1,0,1,6,2
+Medical,1,0,1,0,0,6,2
+Medical,1,0,0,1,1,2,2
+Medical,1,0,0,1,0,5,2
+Medical,1,0,0,0,1,6,2
+Medical,1,0,0,0,0,6,2
+Social Media,0,1,1,1,1,4,2
+Social Media,0,1,1,1,0,7,2
+Social Media,0,1,1,0,1,4,2
+Social Media,0,1,1,0,0,7,2
+Social Media,0,1,0,1,1,4,2
+Social Media,0,1,0,1,0,7,2
+Social Media,0,1,0,0,1,4,2
+Social Media,0,1,0,0,0,7,2
+Social Media,0,0,1,1,1,6,2
+Social Media,0,0,1,1,0,5,2
+Social Media,0,0,1,0,1,6,2
+Social Media,0,0,1,0,0,5,2
+Social Media,0,0,0,1,1,1,2
+Social Media,0,0,0,1,0,3,2
+Social Media,0,0,0,0,1,2,2
+Social Media,0,0,0,0,0,5,2
+Social Media,1,1,1,1,1,1,2
+Social Media,1,1,1,1,0,3,2
+Social Media,1,1,1,0,1,4,2
+Social Media,1,1,1,0,0,7,2
+Social Media,1,1,0,1,1,1,2
+Social Media,1,1,0,1,0,3,2
+Social Media,1,1,0,0,1,2,2
+Social Media,1,1,0,0,0,7,2
+Social Media,1,0,1,1,1,2,2
+Social Media,1,0,1,1,0,5,2
+Social Media,1,0,1,0,1,6,2
+Social Media,1,0,1,0,0,6,2
+Social Media,1,0,0,1,1,2,2
+Social Media,1,0,0,1,0,5,2
+Social Media,1,0,0,0,1,6,2
+Social Media,1,0,0,0,0,6,2
+Real Estate,0,1,1,1,1,4,1
+Real Estate,0,1,1,1,0,7,1
+Real Estate,0,1,1,0,1,4,3
+Real Estate,0,1,1,0,0,7,3
+Real Estate,0,1,0,1,1,4,1
+Real Estate,0,1,0,1,0,7,1
+Real Estate,0,1,0,0,1,4,3
+Real Estate,0,1,0,0,0,7,3
+Real Estate,0,0,1,1,1,6,1
+Real Estate,0,0,1,1,0,5,1
+Real Estate,0,0,1,0,1,6,3
+Real Estate,0,0,1,0,0,5,3
+Real Estate,0,0,0,1,1,1,1
+Real Estate,0,0,0,1,0,3,1
+Real Estate,0,0,0,0,1,2,3
+Real Estate,0,0,0,0,0,5,3
+Real Estate,1,1,1,1,1,1,1
+Real Estate,1,1,1,1,0,3,1
+Real Estate,1,1,1,0,1,4,3
+Real Estate,1,1,1,0,0,7,3
+Real Estate,1,1,0,1,1,1,1
+Real Estate,1,1,0,1,0,3,1
+Real Estate,1,1,0,0,1,2,3
+Real Estate,1,1,0,0,0,7,3
+Real Estate,1,0,1,1,1,2,1
+Real Estate,1,0,1,1,0,5,1
+Real Estate,1,0,1,0,1,6,3
+Real Estate,1,0,1,0,0,6,3
+Real Estate,1,0,0,1,1,2,1
+Real Estate,1,0,0,1,0,5,1
+Real Estate,1,0,0,0,1,6,3
+Real Estate,1,0,0,0,0,6,3
+Humanities,0,1,1,1,1,4,2
+Humanities,0,1,1,1,0,7,2
+Humanities,0,1,1,0,1,4,2
+Humanities,0,1,1,0,0,7,2
+Humanities,0,1,0,1,1,4,2
+Humanities,0,1,0,1,0,7,2
+Humanities,0,1,0,0,1,4,2
+Humanities,0,1,0,0,0,7,2
+Humanities,0,0,1,1,1,6,2
+Humanities,0,0,1,1,0,5,2
+Humanities,0,0,1,0,1,6,2
+Humanities,0,0,1,0,0,5,2
+Humanities,0,0,0,1,1,1,2
+Humanities,0,0,0,1,0,3,2
+Humanities,0,0,0,0,1,2,2
+Humanities,0,0,0,0,0,5,2
+Humanities,1,1,1,1,1,1,2
+Humanities,1,1,1,1,0,3,2
+Humanities,1,1,1,0,1,4,2
+Humanities,1,1,1,0,0,7,2
+Humanities,1,1,0,1,1,1,2
+Humanities,1,1,0,1,0,3,2
+Humanities,1,1,0,0,1,2,2
+Humanities,1,1,0,0,0,7,2
+Humanities,1,0,1,1,1,2,2
+Humanities,1,0,1,1,0,5,2
+Humanities,1,0,1,0,1,6,2
+Humanities,1,0,1,0,0,6,2
+Humanities,1,0,0,1,1,2,2
+Humanities,1,0,0,1,0,5,2
+Humanities,1,0,0,0,1,6,2
+Humanities,1,0,0,0,0,6,2
+Job Recruitment,0,1,1,1,1,4,2
+Job Recruitment,0,1,1,1,0,7,2
+Job Recruitment,0,1,1,0,1,4,2
+Job Recruitment,0,1,1,0,0,7,2
+Job Recruitment,0,1,0,1,1,4,2
+Job Recruitment,0,1,0,1,0,7,2
+Job Recruitment,0,1,0,0,1,4,2
+Job Recruitment,0,1,0,0,0,7,2
+Job Recruitment,0,0,1,1,1,6,2
+Job Recruitment,0,0,1,1,0,5,2
+Job Recruitment,0,0,1,0,1,6,2
+Job Recruitment,0,0,1,0,0,5,2
+Job Recruitment,0,0,0,1,1,1,2
+Job Recruitment,0,0,0,1,0,3,2
+Job Recruitment,0,0,0,0,1,2,2
+Job Recruitment,0,0,0,0,0,5,2
+Job Recruitment,1,1,1,1,1,1,2
+Job Recruitment,1,1,1,1,0,3,2
+Job Recruitment,1,1,1,0,1,4,2
+Job Recruitment,1,1,1,0,0,7,2
+Job Recruitment,1,1,0,1,1,1,2
+Job Recruitment,1,1,0,1,0,3,2
+Job Recruitment,1,1,0,0,1,2,2
+Job Recruitment,1,1,0,0,0,7,2
+Job Recruitment,1,0,1,1,1,2,2
+Job Recruitment,1,0,1,1,0,5,2
+Job Recruitment,1,0,1,0,1,6,2
+Job Recruitment,1,0,1,0,0,6,2
+Job Recruitment,1,0,0,1,1,2,2
+Job Recruitment,1,0,0,1,0,5,2
+Job Recruitment,1,0,0,0,1,6,2
+Job Recruitment,1,0,0,0,0,6,2
+Public Affairs,0,1,1,1,1,4,1
+Public Affairs,0,1,1,1,0,7,1
+Public Affairs,0,1,1,0,1,4,1
+Public Affairs,0,1,1,0,0,7,1
+Public Affairs,0,1,0,1,1,4,1
+Public Affairs,0,1,0,1,0,7,1
+Public Affairs,0,1,0,0,1,4,1
+Public Affairs,0,1,0,0,0,7,1
+Public Affairs,0,0,1,1,1,6,1
+Public Affairs,0,0,1,1,0,5,1
+Public Affairs,0,0,1,0,1,6,1
+Public Affairs,0,0,1,0,0,5,1
+Public Affairs,0,0,0,1,1,1,1
+Public Affairs,0,0,0,1,0,3,1
+Public Affairs,0,0,0,0,1,2,1
+Public Affairs,0,0,0,0,0,5,1
+Public Affairs,1,1,1,1,1,1,1
+Public Affairs,1,1,1,1,0,3,1
+Public Affairs,1,1,1,0,1,4,1
+Public Affairs,1,1,1,0,0,7,1
+Public Affairs,1,1,0,1,1,1,1
+Public Affairs,1,1,0,1,0,3,1
+Public Affairs,1,1,0,0,1,2,1
+Public Affairs,1,1,0,0,0,7,1
+Public Affairs,1,0,1,1,1,2,1
+Public Affairs,1,0,1,1,0,5,1
+Public Affairs,1,0,1,0,1,6,1
+Public Affairs,1,0,1,0,0,6,1
+Public Affairs,1,0,0,1,1,2,1
+Public Affairs,1,0,0,1,0,5,1
+Public Affairs,1,0,0,0,1,6,1
+Public Affairs,1,0,0,0,0,6,1
+Education,0,1,1,1,1,4,2
+Education,0,1,1,1,0,7,2
+Education,0,1,1,0,1,4,2
+Education,0,1,1,0,0,7,2
+Education,0,1,0,1,1,4,2
+Education,0,1,0,1,0,7,2
+Education,0,1,0,0,1,4,2
+Education,0,1,0,0,0,7,2
+Education,0,0,1,1,1,6,2
+Education,0,0,1,1,0,5,2
+Education,0,0,1,0,1,6,2
+Education,0,0,1,0,0,5,2
+Education,0,0,0,1,1,1,2
+Education,0,0,0,1,0,3,2
+Education,0,0,0,0,1,2,2
+Education,0,0,0,0,0,5,2
+Education,1,1,1,1,1,1,1
+Education,1,1,1,1,0,3,1
+Education,1,1,1,0,1,4,1
+Education,1,1,1,0,0,7,1
+Education,1,1,0,1,1,1,3
+Education,1,1,0,1,0,3,3
+Education,1,1,0,0,1,2,3
+Education,1,1,0,0,0,7,3
+Education,1,0,1,1,1,2,1
+Education,1,0,1,1,0,5,1
+Education,1,0,1,0,1,6,1
+Education,1,0,1,0,0,6,1
+Education,1,0,0,1,1,2,3
+Education,1,0,0,1,0,5,3
+Education,1,0,0,0,1,6,3
+Education,1,0,0,0,0,6,3
